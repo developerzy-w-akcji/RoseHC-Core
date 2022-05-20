@@ -1,0 +1,5 @@
+name: 'bungee-auth-plugin'
+main: 'pl.rosehc.auth.AuthPlugin'
+author: 'inzynierr'
+depends: [ 'bungee-adapter-plugin', 'bungee-sectors-plugin', 'bungee-platform-plugin' ]
+version: '1.0-SNAPSHOT'

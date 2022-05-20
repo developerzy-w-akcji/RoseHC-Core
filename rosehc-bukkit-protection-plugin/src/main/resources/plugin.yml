@@ -1,0 +1,5 @@
+name: 'bukkit-protection-plugin'
+main: 'pl.rosehc.protection.ProtectionPlugin'
+authors: [ 'stevimeister', 'inzynierr' ]
+depend: [ 'bukkit-adapter-plugin', 'bukkit-sectors-plugin', 'bukkit-platform-plugin' ]
+version: '${project.version}'

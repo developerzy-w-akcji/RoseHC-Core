@@ -1,0 +1,5 @@
+name: 'bukkit-trade-plugin'
+main: 'pl.rosehc.trade.TradePlugin'
+author: 'inzynierr'
+depend: [ 'bukkit-adapter-plugin', 'bukkit-sectors-plugin', 'bukkit-platform-plugin' ]
+version: '${project.version}'

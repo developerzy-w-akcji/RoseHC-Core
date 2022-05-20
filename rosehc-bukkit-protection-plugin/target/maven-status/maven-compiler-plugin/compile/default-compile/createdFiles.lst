@@ -1,0 +1,16 @@
+pl\rosehc\protection\listener\PlayerDamageByEntityListener.class
+pl\rosehc\controller\packet\protection\ProtectionConfigurationResponsePacket.class
+pl\rosehc\protection\user\task\ProtectionUserExpiryTask.class
+pl\rosehc\protection\listener\PlayerSectorConnectingListener.class
+pl\rosehc\protection\user\ProtectionUserFactory.class
+pl\rosehc\protection\user\ProtectionUserRepository.class
+pl\rosehc\protection\command\ProtectionCommand.class
+pl\rosehc\protection\ProtectionConfiguration.class
+pl\rosehc\controller\packet\ProtectionPacketHandler.class
+pl\rosehc\protection\listener\PlayerQuitListener.class
+pl\rosehc\protection\ProtectionPlugin.class
+pl\rosehc\controller\packet\protection\ProtectionConfigurationRequestPacket.class
+pl\rosehc\protection\listener\PlayerPreLoginListener.class
+pl\rosehc\protection\user\ProtectionUser.class
+pl\rosehc\protection\ProtectionPlugin$1.class
+pl\rosehc\protection\user\task\ProtectionUserBarUpdateTask.class

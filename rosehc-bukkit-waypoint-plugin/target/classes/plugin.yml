@@ -1,0 +1,4 @@
+name: 'bukkit-waypoint-plugin'
+main: 'pl.rosehc.waypoint.WaypointPlugin'
+authors: [ 'inzynierr' ]
+version: '1.0-SNAPSHOT'

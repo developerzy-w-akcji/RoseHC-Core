@@ -1,0 +1,4 @@
+name: 'bukkit-actionbar-plugin'
+main: 'pl.rosehc.actionbar.PrioritizedActionBarPlugin'
+authors: [ 'inzynierr' ]
+version: '${project.version}'

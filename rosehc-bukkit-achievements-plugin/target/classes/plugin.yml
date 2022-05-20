@@ -1,0 +1,6 @@
+name: 'bukkit-achievements-plugin'
+main: 'pl.rosehc.achievements.AchievementsPlugin'
+author: 'inzynierr'
+depend: [ 'bukkit-adapter-plugin', 'bukkit-sectors-plugin', 'bukkit-platform-plugin' ]
+softdepend: [ 'bukkit-guilds-plugin' ]
+version: '1.0-SNAPSHOT'

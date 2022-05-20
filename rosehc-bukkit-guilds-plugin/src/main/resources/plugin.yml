@@ -1,0 +1,5 @@
+name: 'bukkit-guilds-plugin'
+main: 'pl.rosehc.guilds.GuildsPlugin'
+author: 'inzynierr'
+depend: [ 'bukkit-adapter-plugin', 'bukkit-sectors-plugin', 'bukkit-platform-plugin', 'bukkit-actionbar-plugin', 'bukkit-waypoint-plugin', 'bukkit-bossbar-plugin' ]
+version: '${project.version}'

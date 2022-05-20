@@ -1,0 +1,5 @@
+name: 'bungee-platform-plugin'
+main: 'pl.rosehc.platform.PlatformPlugin'
+author: 'stevimeister & inzynierr'
+depends: [ 'bungee-adapter-plugin', 'bungee-sectors-plugin' ]
+version: '${project.version}'

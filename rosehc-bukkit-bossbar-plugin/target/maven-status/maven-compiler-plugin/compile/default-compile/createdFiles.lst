@@ -1,0 +1,17 @@
+pl\rosehc\bossbar\user\UserBarConstants.class
+pl\rosehc\bossbar\user\UserBarType.class
+pl\rosehc\bossbar\BossBarBuilder$Remove.class
+pl\rosehc\bossbar\user\UserBar.class
+pl\rosehc\bossbar\BossBarBuilder.class
+pl\rosehc\bossbar\user\UserBarFactory.class
+pl\rosehc\bossbar\BarStyle.class
+pl\rosehc\bossbar\BossBarPacket$1.class
+pl\rosehc\bossbar\BossBarBuilder$UpdateStyle.class
+pl\rosehc\bossbar\BossBarBuilder$1.class
+pl\rosehc\bossbar\BossBarPacket.class
+pl\rosehc\bossbar\BossBarPlugin.class
+pl\rosehc\bossbar\BossBarBuilder$UpdateProgress.class
+pl\rosehc\bossbar\BarOperation.class
+pl\rosehc\bossbar\BossBarBuilder$Add.class
+pl\rosehc\bossbar\BarColor.class
+pl\rosehc\bossbar\BossBarBuilder$UpdateTitle.class

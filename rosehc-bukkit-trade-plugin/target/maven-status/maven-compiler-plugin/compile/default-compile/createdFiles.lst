@@ -1,0 +1,12 @@
+pl\rosehc\controller\packet\trade\TradeConfigurationResponsePacket.class
+pl\rosehc\trade\TradeListeners.class
+pl\rosehc\controller\wrapper\trade\TradeAcceptItemSpigotGuiElementWrapper.class
+pl\rosehc\trade\TradePlugin.class
+pl\rosehc\trade\Trade.class
+pl\rosehc\controller\packet\TradeConfigurationPacketHandler.class
+pl\rosehc\trade\TradeInventoryHolder.class
+pl\rosehc\trade\TradeConfiguration.class
+pl\rosehc\trade\TradeFactory.class
+pl\rosehc\trade\TradeInventoryHelper.class
+pl\rosehc\trade\TradePlugin$1.class
+pl\rosehc\controller\packet\trade\TradeConfigurationRequestPacket.class

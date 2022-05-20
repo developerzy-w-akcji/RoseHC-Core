@@ -1,0 +1,4 @@
+name: 'bungee-bossbar-plugin'
+main: 'pl.rosehc.bossbar.BossBarPlugin'
+authors: [ 'stevimeister' ]
+version: '${project.version}'
